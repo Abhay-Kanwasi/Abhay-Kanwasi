@@ -28,4 +28,4 @@
 
 ## Contact Me 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Abhay-Kanwasi)  [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](abhaykanwasi123@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-abhaykanwasi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhay-kanwasi-61848b201/)](https://www.linkedin.com/in/abhay-kanwasi-61848b201/)
+[![Linkedin Badge](https://img.shields.io/badge/-abhaykanwasi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhay-kanwasi/)](https://www.linkedin.com/in/abhay-kanwasi-61848b201/)
