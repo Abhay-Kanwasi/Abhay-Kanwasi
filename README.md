@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,Django,MySQL**
+- 🌱 I’m currently learning **Django LLM and Llamba2**
 
 - 💬 Ask me about **Python,C,C++,Godot**
 
