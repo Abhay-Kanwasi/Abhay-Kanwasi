@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django LLM and Llamba2**
 
-- 💬 Ask me about **Python,C,C++,Godot**
+- 💬 Ask me about **Python,C,C++,Django, MySQL, E-Commerce, Presentation**
 
 - 📫 How to reach me **abhaykanwasi123@gmail.com**
 
