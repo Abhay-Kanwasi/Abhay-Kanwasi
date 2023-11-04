@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Django LLM and Llamba2**
+- 🌱 I’m currently learning **Numpy, Pandas, Bitbucket**
 
-- 💬 Ask me about **Python,C,C++,Django, MySQL, E-Commerce, Presentation**
+- 💬 Ask me about **Python,C,C++,Django, MySQL, E-Commerce, Presentation, Git, Github**
 
 - 📫 How to reach me **abhaykanwasi123@gmail.com**
 
