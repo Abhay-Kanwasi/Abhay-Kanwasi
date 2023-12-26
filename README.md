@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Numpy, Pandas, Bitbucket**
 
-- 💬 Ask me about **Python,C,C++,Django, MySQL, E-Commerce, Presentation, Git, Github**
+- 💬 Ask me about **Python, Django, HTML, Jinja**
 
 - 📫 How to reach me **abhaykanwasi123@gmail.com**
 
