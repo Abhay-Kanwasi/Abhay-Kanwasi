@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Numpy, Pandas, Bitbucket**
+- 🌱 I’m currently learning **DjangoREST, API, Langchain, Python Libraries**
 
-- 💬 Ask me about **Python, Django, HTML, Jinja**
+- 💬 My Tech Stack **Python, Django, HTML, Tailwind CSS, React, Bootstrap, Javascript, NodeJS**
 
 - 📫 How to reach me **abhaykanwasi123@gmail.com**
 
