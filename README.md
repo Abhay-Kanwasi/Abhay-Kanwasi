@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Kanwasi</h1>
 <h3 align="center">A developer who is running towards new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-coder001&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-coder001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-coder001&label=Profile%20views&color=0e75b6&style=flat" alt="Abhay-Kanwasi" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
