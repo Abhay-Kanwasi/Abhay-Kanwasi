@@ -12,8 +12,8 @@
 
 - **Programming Language**: Python, JavaScript
 - **Database**: PostgreSQL, MongoDB
-- **Frontend**: ReactJS, NextJS, HTML, Tailwind CSS
-- **Backend**: Django, NodeJS
+- **Frontend**: ReactJS, NextJS, HTML, Tailwind CSS, Material UI
+- **Backend**: Django, FastAPI, NodeJS
 - **Cloud**: Google Cloud Platform
 
 📫 How to reach me **abhaykanwasi123@gmail.com**
